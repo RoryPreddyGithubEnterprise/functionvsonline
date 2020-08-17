@@ -1,5 +1,5 @@
 {
-    "azureFunctions.deploySubpath": "target/azure-functions/functionvsonline-1594138856647",
+    "azureFunctions.deploySubpath": "target/azure-functions/functionvsonline-1597688652114",
     "azureFunctions.projectLanguage": "Java",
     "azureFunctions.projectRuntime": "~3",
     "debug.internalConsoleOptions": "neverOpen",

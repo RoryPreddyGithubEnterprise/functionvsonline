@@ -7,7 +7,7 @@
       "problemMatcher": "$func-watch",
       "isBackground": true,
       "options": {
-        "cwd": "${workspaceFolder}/target/azure-functions/functionvsonline-1594138856647"
+        "cwd": "${workspaceFolder}/target/azure-functions/functionvsonline-1597688652114"
       },
       "dependsOn": "package"
     },
