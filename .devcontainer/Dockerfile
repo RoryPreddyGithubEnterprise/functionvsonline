@@ -1,11 +1,6 @@
-#-------------------------------------------------------------------------------------------------------------
-# Copyright (c) Microsoft Corporation. All rights reserved.
-# Licensed under the MIT License. See https://go.microsoft.com/fwlink/?linkid=2090316 for license information.
-#-------------------------------------------------------------------------------------------------------------
-
 # Find the Dockerfile for mcr.microsoft.com/azure-functions/java:3.0-java8-core-tools at this URL
 # https://github.com/Azure/azure-functions-docker/blob/master/host/3.0/buster/amd64/java/java8/java8-core-tools.Dockerfile
-FROM mcr.microsoft.com/azure-functions/java:3.0-java8-core-tools
+FROM mcr.microsoft.com/azure-functions/java:3.0-java11-core-tools
 
 # Uncomment following lines If you want to enable Development Container Script
 # For more details https://github.com/microsoft/vscode-dev-containers/tree/master/script-library
